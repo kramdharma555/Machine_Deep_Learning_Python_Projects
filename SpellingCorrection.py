@@ -1,7 +1,7 @@
 #We have to import the TextBlob Module for this spelling correction
 from textblob import TextBlob
 #words user defined variable/obeject is used to hold the sentences
-Example_words = ["Computr Scence", "Data Bse"]
+Example_words = ["Computr Scence ", " Digitl Netwrk"]
 #Correctword holds the dummy arrays to store many values 
 CorrectWord = []
 #For loop is performed here to get the number of characters/words will be appended 
