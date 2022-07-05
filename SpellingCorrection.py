@@ -12,7 +12,7 @@ print("Mistaken Word", Example_words)
 #To get the corrected words and one more loop is being used to show each corrected word
 print("Corrected Words are Listed ")
 for i in CorrectWord:
-    print(i.correct()), end="")
+    print(i.correct(), end="")
 
     
     
